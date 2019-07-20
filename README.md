@@ -1,30 +1,5 @@
-# element-admin
+## 全栈开发文章管理界面
 
-## Project setup
-```
-npm install
-```
+前端技术栈：vue + element-ui  后端技术栈：nodejs + express + mongoose
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# element admin
+该项目旨在学习nodejs，因此功能较简单，包括展示文章列表、创建新文章、编辑文章和删除文章。
